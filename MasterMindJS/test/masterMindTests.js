@@ -1,5 +1,5 @@
 const assert=require('assert').strict;
-const masterMindLogic = require('./masterMindLogic.js');
+const masterMindLogic = require('../masterMindLogic.js');
 
 describe('GetGuessFeedbackTests', function() {
   it('TestCaseName', function() {

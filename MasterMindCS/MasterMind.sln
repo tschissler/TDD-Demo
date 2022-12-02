@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30001.183
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind.App", "MasterMind.App\MasterMind.App.csproj", "{21C75A3F-50AD-47BE-919F-FE8A792E0EF8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMin.Tests", "MasterMin.Tests\MasterMin.Tests.csproj", "{4B0948BF-238D-47CE-AB2F-9F4571C5F52F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind.Tests", "MasterMind.Tests\MasterMind.Tests.csproj", "{4B0948BF-238D-47CE-AB2F-9F4571C5F52F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,9 +10,9 @@ The goal of the game is to guess an 4-digit secret code. For each guess the syst
 # Getting Started
 
 ## C#
-The C# version is based on dotnet core 3.1. 
+The C# version is based on .NET6. 
 
-The easiest way to run this version might be in using Visual Studio.
+The easiest way to run this version might be in using Visual Studio or VSCode.
 
 You can also use ```dotnet run --project MasterMind.App``` to run the application and 
 ```dotnet test``` to run  tests.

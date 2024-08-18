@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "masterMindTests.py"
+        "MasterMindPython/masterMindTests.py"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true

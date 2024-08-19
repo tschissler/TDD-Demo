@@ -23,6 +23,12 @@ The code has been created by using [VSCode](code.visualstudio.com) but any other
 The NodeJs version can be run by typing ```node index.js```
 To execute tests either use the Test Explorer inside VSCode or type ```npm test```
 
+## Python
+The code has been created by using [VSCode](code.visualstudio.com) but any other IDE should also be sufficient.
+
+The python version can be run by typing ```python .\masterMind.py```
+To execute tests, first run ```pip install pytest```, then either use the Test Explorer inside VSCode or type ```pytest .\masterMindTests.py```
+
 
 # Contribute
 If you would like to contribute improvements or new language versions, just create a PR.

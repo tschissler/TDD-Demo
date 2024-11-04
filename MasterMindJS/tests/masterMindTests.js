@@ -3,6 +3,6 @@ const masterMindLogic = require('../masterMindLogic.js');
 
 describe('GetGuessFeedbackTests', function() {
   it('TestCaseName', function() {
-    assert.deepStrictEqual(1, 2);
+    assert.equal(1, 2);
   });
 });

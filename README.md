@@ -10,7 +10,7 @@ The goal of the game is to guess an 4-digit secret code. For each guess the syst
 # Getting Started
 
 ## C#
-The C# version is based on .NET6. 
+The C# version is based on .NET 10. 
 
 The easiest way to run this version might be in using Visual Studio or VSCode.
 

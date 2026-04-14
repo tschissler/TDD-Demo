@@ -1,4 +1,5 @@
 {
+    "dotnet-test-explorer.testProjectPath": "MasterMindCS/MasterMind.Tests",
     "python.testing.pytestArgs": [
         "MasterMindPython/masterMindTests.py"
     ],
